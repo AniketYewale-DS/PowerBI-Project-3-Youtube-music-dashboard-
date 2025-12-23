@@ -2,7 +2,10 @@
 # 🎵 YouTube Music – Top 50 World Songs Dashboard
 
 ##
-![YouTube Music Dashboard].(Home secton.png)
+<p align="center">
+  <img src="Home section.png" width="900"/>
+</p>
+
 
 
 
