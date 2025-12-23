@@ -1,5 +1,7 @@
-# PowerBI-Project-3-Youtube-music-dashboard-
+
 🎵 YouTube Music – Top 50 World Songs Dashboard
+![YouTube Music Dashboard](dashboard_img.png)
+
 📌 Project Description
 
 This project analyzes YouTube Music Top 50 World Songs to uncover insights about artists, songs, popularity, rankings, duration, and explicit content.
