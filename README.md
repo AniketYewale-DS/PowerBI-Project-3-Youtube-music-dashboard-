@@ -3,7 +3,7 @@
 
 ##
 <p align="center">
-  <img src="Home section.png" width="900"/>
+  <img src="Home secton.png" width="900"/>
 </p>
 
 
