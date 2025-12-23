@@ -1,6 +1,6 @@
 
 🎵 YouTube Music – Top 50 World Songs Dashboard
-![YouTube Music Dashboard](dashboard_img.png)
+![YouTube Music Dashboard](Home secton.png)
 
 📌 Project Description
 
